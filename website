@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+body {
+  background-color: white;
+}
+
+h1 {
+  color: black;
+  text-align: center;
+  font-family: papyrus;
+}
+
+p {
+  font-family: verdana;
+  font-size: 20px;
+}
+</style>
+</head>
+<body>
+
+<h1><center>SHADOWBLADE</center></h1>
+<p><center>Github: <a href="https://github.com/Aromajoe/shadowblade.git">Click Here</a></center><r>
+<p><center>This is the website for the game. This is mainly a portal.</center></p>
+
+</body>
+</html>
+
+
